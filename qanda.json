@@ -45,7 +45,7 @@
     "id": 8,
     "title": 3,
     "question": "Was bedeutet FAZ, FEZ, SAZ, SEZ, GP, FP?",
-    "answer": "<ol><li><strong>FAZ: </strong>frühester Anfangszeitpunkt</li><li><strong>FEZ: </strong>frühester Endzeitpunkt</li><li><strong>SAZ: </strong>spätester Anfangszeitpunkt</li><li><strong>SEZ: </strong>spätester Endzeitpunkt</li><li><strong>GP : </strong>Gesamtpuffer</li><li><strong>FP : </strong>freier Puffer</li></ol>"
+    "answer": "<ol><li><strong>FAZ: </strong>frühester Anfangszeitpunkt</li><li><strong>FEZ: </strong>frühester Endzeitpunkt</li><li><strong>SAZ: </strong>spätester Anfangszeitpunkt</li><li><strong>SEZ: </strong>spätester Endzeitpunkt</li><li><strong>GP : </strong>Gesamtpuffer</li><li><strong>FP : </strong>freier Puffer</li></ol></br><img><img src=\"frage_id_8_netzplan.png\" alt=\"Netzplan\""
   },
   {
     "id": 9,
