@@ -45,7 +45,7 @@
     "id": 8,
     "title": 3,
     "question": "Was bedeutet FAZ, FEZ, SAZ, SEZ, GP, FP?",
-    "answer": "<ol><li><strong>FAZ: </strong>frühester Anfangszeitpunkt</li><li><strong>FEZ: </strong>frühester Endzeitpunkt</li><li><strong>SAZ: </strong>spätester Anfangszeitpunkt</li><li><strong>SEZ: </strong>spätester Endzeitpunkt</li><li><strong>GP : </strong>Gesamtpuffer</li><li><strong>FP : </strong>freier Puffer</li></ol></br><img src=\"frage_id_8_netzplan.png\" alt=\"Netzplan\""
+    "answer": "<ol><li><strong>FAZ: </strong>frühester Anfangszeitpunkt</li><li><strong>FEZ: </strong>frühester Endzeitpunkt</li><li><strong>SAZ: </strong>spätester Anfangszeitpunkt</li><li><strong>SEZ: </strong>spätester Endzeitpunkt</li><li><strong>GP : </strong>Gesamtpuffer</li><li><strong>FP : </strong>freier Puffer</li></ol></br><img src=\"frage_id_8_netzplan.png\" alt=\"Netzplan\">"
   },
   {
     "id": 9,
@@ -315,7 +315,7 @@
     "id": 53,
     "title": 1,
     "question": "Unternehmen, die ein Rechenzentrum betreiben, setzen vermehrt auf die Vorteile der Virtualisierung. In diesem Zusammenhang wird oftmals der Begriff des Thin-Clients benutzt. Was versteht man unter einem Thin-Clients?",
-    "answer": "Allgemein kann man einen <strong>Thin-Client</strong> (englisch dünner, schlanker bzw. magerer Client) als einen Computer bezeichnen, welcher über ein Netzwerk Ressourcen nutzt, die ihm ein Server bereitstellt.<br/>Die virtuelle Desktop-Infrastruktur (VDI) setzt primär Thin-Clients ein und setzt damit Konsequent auf die Vorteile der Virtualisierung des kompletten Rechenzentrums. Thin-Clients oder manchmal auch als Zero-Clients bezeichnet, siehe Bild, sind lüfterlose Geräte welche über USB, einen Netzwerkanschluss, Audio- und Displayanschlüsse verfügen. Die persönliche Benutzeroberfläche, die Konfiguration, Zugriffe auf Verzeichnisse und installierte Programme werden vom Server zur Verfügung gestellt. Thin-Clients sind umwelt- und ressourcenschonend und haben eine geringe Leistungsaufnahme."
+    "answer": "Allgemein kann man einen <strong>Thin-Client</strong> (englisch dünner, schlanker bzw. magerer Client) als einen Computer bezeichnen, welcher über ein Netzwerk Ressourcen nutzt, die ihm ein Server bereitstellt.<br/>Die virtuelle Desktop-Infrastruktur (VDI) setzt primär Thin-Clients ein und setzt damit Konsequent auf die Vorteile der Virtualisierung des kompletten Rechenzentrums. Thin-Clients oder manchmal auch als Zero-Clients bezeichnet, siehe Bild, sind lüfterlose Geräte welche über USB, einen Netzwerkanschluss, Audio- und Displayanschlüsse verfügen. Die persönliche Benutzeroberfläche, die Konfiguration, Zugriffe auf Verzeichnisse und installierte Programme werden vom Server zur Verfügung gestellt. Thin-Clients sind umwelt- und ressourcenschonend und haben eine geringe Leistungsaufnahme.<img src=\"Thin_Client_Front_and_Rear.jpg\" alt=\"Thinclient\">"
   },
   {
     "id": 54,
