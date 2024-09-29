@@ -74,8 +74,8 @@
   {
     "id": 13,
     "title": 3,
-    "question": "- Wähle Anhand der Darstellung den kritischen Pfad aus.</br><img src=\"frage_id_13_netzplan.png\" alt=\"Netzplan\">",
-    "answer": "Der kritische Pfad ist immer der Pfad, der keine Gesamtpufferzeiten enthält und somit das Gesamtprojekt gefährden kann.<img src=\"frage_id_13_netzplan.png\" alt=\"Netzplan\">"
+    "question": "Wähle Anhand der Darstellung den kritischen Pfad aus.</br><img src=\"frage_id_13_netzplan.png\" alt=\"Netzplan\" width=\"600\" height=\"600\">",
+    "answer": "Der kritische Pfad ist immer der Pfad, der keine Gesamtpufferzeiten enthält und somit das Gesamtprojekt gefährden kann.<img src=\"antwort_id_13_netzplan.png\" alt=\"Netzplan\">"
   },
   {
     "id": 14,
