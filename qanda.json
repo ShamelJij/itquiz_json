@@ -39,7 +39,7 @@
     "id": 7,
     "title": 3,
     "question": "Was bezeichnet man als kritischen Pfad beim Netzplan?",
-    "answer": "Der <strong>Kritische Pfad</strong> auch als kritischer Weg bezeichnet, ist der Weg von Anfang bis zum Ende aller Aktivitäten eines Netzplans, auf dem die Summe aller Pufferzeiten minimal oder Null wird. Die Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt, (DIN 69900:2009-01 Projektmanagement - Netzplantechnik; Beschreibungen und Begriffe).</br>Einzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.</br><strong>Merke: Beim kritischen Pfad ist der Gesamtpuffer : Null.</strong>"
+    "answer": "Der <strong>Kritische Pfad</strong> auch als kritischer Weg bezeichnet, ist der Weg von Anfang bis zum Ende aller Aktivitäten eines Netzplans, auf dem die Summe aller Pufferzeiten minimal oder Null wird. Die Gesamtprojektdauer wird somit durch den kritischen Pfad bestimmt, (DIN 69900:2009-01 Projektmanagement - Netzplantechnik; Beschreibungen und Begriffe).</br>Einzelne Aktivitäten innerhalb des Projekts können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne dabei die Gesamtprojektdauer zu gefährden.</br><strong>Merke: Beim kritischen Pfad ist der Gesamtpuffer = Null.</strong>"
   },
   {
     "id": 8,
