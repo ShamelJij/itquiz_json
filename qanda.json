@@ -182,7 +182,7 @@
   {
     "id": 31,
     "title": 6,
-    "question": "Welche Merkmale besitzt eine Europäische Gesellschaft (lateinisch Sicietas Europaea, Kurz SE genannt)?",
+    "question": "Welche Merkmale besitzt eine Europäische Gesellschaft (lateinisch Societas Europaea, Kurz SE genannt)?",
     "answer": "Folgende Merkmale gelten für eine <strong>Europäische Gesellschaft (SE):</strong><br/><ol><li>Sie besitzt eine eigene Rechtspersönlichkeit.</li><li>Sie ist eine Kapitalgesellschaft.</li><li>Das Mindestkapital beträgt 120.000 Euro.</li><li>Jeder Aktionär haftet nur bis zur Höhe des von ihm gezeichneten Kapitals.</li><li>Die Geschäftsführung kann auf 2 Arten erfolgen:<br/><ol><li>Monistisches System</li><li>Dualistisches System</li></ol></li></ol>"
   },
   {
@@ -195,37 +195,37 @@
     "id": 33,
     "title": 6,
     "question": "Welche Unternehmensformen sind in Deutschland Personengesellschaften?",
-    "answer": "Die <strong>Personengesellschaft</strong> ist ein Zusammenschluss midestens zweier Personen (natürliche und/oder juristische Personen sowie Personengesellschaften) zur Erreichung eines gemeinsamen Unternehmensziels.<br/><strong>Personengesellschaften</strong><br/><ol><li>Gesellschaft bürgerlichen Rechts (GbR)</li></ol><br/><strong>Personenhandelsgesellschaften:</strong><br/><ol><li>Offene Handelsgesellschaft (oHG), auch als GmbH & Co. oHG</li><li>Kommanditgesellschaft (KG), auch als GmbH & Co. KG</li></ol>"
+    "answer": "Die <strong>Personengesellschaft</strong> ist ein Zusammenschluss mindestens zweier Personen (natürliche und/oder juristische Personen sowie Personengesellschaften) zur Erreichung eines gemeinsamen Unternehmensziels.<br/><strong>Personengesellschaften:</strong><br/><ol><li>Gesellschaft bürgerlichen Rechts (GbR)</li></ol><br/><strong>Personenhandelsgesellschaften:</strong><br/><ol><li>Offene Handelsgesellschaft (oHG), auch als GmbH & Co. oHG</li><li>Kommanditgesellschaft (KG), auch als GmbH & Co. KG</li></ol>"
   },
   {
     "id": 34,
     "title": 6,
     "question": "Welche Bedingungen und welche Haftungsregeln gelten bei einer offenen Handelsgesellschaft - OHG?",
-    "answer": "Eine <strong>OHG</strong> kann gegründet werden, wenn sich mindestens zwei oder mehr Personen zum Zweck eines <strong>vollkaufmännischen Handelsgewerbes</strong> im Sinne von § 1 Abs. 1 HGB (Handelsgesetzbuch) zusammenschließen.<br/>Es gilt, dass alle Gesellschaftler persönlich, unbegrentz und unbeschränkt für alle Verbinglichkeiten der Gesellschaft haften."
+    "answer": "Eine <strong>OHG</strong> kann gegründet werden, wenn sich mindestens zwei oder mehr Personen zum Zweck eines <strong>vollkaufmännischen Handelsgewerbes</strong> im Sinne von § 1 Abs. 1 HGB (Handelsgesetzbuch) zusammenschließen.<br/>Es gilt, dass alle Gesellschafter persönlich, unbegrenzt und unbeschränkt für alle Verbindlichkeiten der Gesellschaft haften."
   },
   {
     "id": 35,
     "title": 6,
-    "question": "Ein Betiebsergebnis erreicht sich aus den Umsatzerlösen minus den Umsatzkosten. Welche Sachverhalte können das Betriebsergebnis positiv beeinflussen?",
+    "question": "Ein Betriebsergebnis erreicht sich aus den Umsatzerlösen minus den Umsatzkosten. Welche Sachverhalte können das Betriebsergebnis positiv beeinflussen?",
     "answer": "Um das <strong>Betriebsergebnis</strong> positiv zu verändern, gibt es folgende Möglichkeiten:<br/><ol><li>Wareneinkauf optimieren (Rabatte aushandeln)</li><li>Herstellungskosten senken (z. B. Einsatz von günstigen Vorprodukten)</li><li>allgemeine Verwaltungskosten minimieren (durch Einsatz von Software)</li><li>Reduzierung der Werbekosten (Nutzung von Social Media)</li><li>Personalkosten reduzieren (durch Steigerung der Produktivität)</li><li>Fixkosten mindern (z. B. Nutzung von Fahrzeug-Leading statt kauf)</li></ol>"
   },
   {
     "id": 36,
     "title": 6,
     "question": "Unternehmen richten ihre Produkte und Dienstleitungen mit Hilfe von Marketingmaßnahmen nach den Kundenwünschen aus.<br/>Welchem Zweck dienen in diesem Zusammenhang Kundenbefragung?",
-    "answer": "Durch <strong>Kundenbefragung</strong> können zentrale Punkte wie Kundenzufriedenheit, Trends, das Image des Unternehmens, die Marktposition, die Kundenbindung sowie der Erfolg von Werbemaßnahmen beantwortet werden."
+    "answer": "Durch <strong>Kundenbefragungen</strong> können zentrale Punkte wie Kundenzufriedenheit, Trends, das Image des Unternehmens, die Marktposition, die Kundenbindung sowie der Erfolg von Werbemaßnahmen beantwortet werden."
   },
   {
     "id": 37,
     "title": 6,
-    "question": "In der Kundenkommunikation, im Speziellen während der Fehleranalyse im Telefonsuppot, sind Fragen von besonderer Bedeutung.<br/>Unterschiede bitte geschlossene und offene Fragen.",
+    "question": "In der Kundenkommunikation, im Speziellen während der Fehleranalyse im Telefonsupport, sind Fragen von besonderer Bedeutung.<br/>Unterschiede bitte geschlossene und offene Fragen.",
     "answer": "<strong>geschlossene Fragen:</strong><br/>Ja-Oder-Nein Fragen, z. B.: „Haben Sie den PC schon einmal neu gestartet?“<br/><strong>Offene Fragen:</strong><br/>W-Fragen - Wer, Wie, Was, Wieso, Warum, Wo, Weshalb, Wann..., z. B.:„Welche Fehlermeldung wurde Ihnen beim Programmabbruch angezeigt?“"
   },
   {
     "id": 38,
     "title": 6,
     "question": "Das Controlling im Unternehmen wird als eine Funktion des Managements gesehen, dessen zentrale Aufgabe die Planung, Steuerung sowie die Kontrolle aller Unternehmensbereiche ist.<br/>Wozu dient dabei eine ABC-Analyse?",
-    "answer": "Die <strong>ABC-Analyse</strong> stellt ein betriebswirtschaftliches Analyse-verfahren dar, welches bestimmte Prozesse oder Objekte in Klassen A, B und C einstuft. Dabei wird von A bis C in absteigender Reihenfolge eine Bedeutung zugeordnet.<br/>Bei der ABC-Analyse vergleicht man beispielsweise, welche Kunden für den Hauptumsatz des Unternehmens verantworltlich sind und somit in klasse A eingestuft werden. Kunden, Welche am wenigsten zum Umsatz beitragen, kommen in die Klasse C. In Klasse B kommen die Kunden, die nur durchschnittlich zum Umsatzerfolg beitragen.<br/>Somit erhalten wir eine Art Ranking über den Umsatzerfolg, ähnlich dem Pareto-Prinizip (80/20-Regel)."
+    "answer": "Die <strong>ABC-Analyse</strong> stellt ein betriebswirtschaftliches Analyse-verfahren dar, welches bestimmte Prozesse oder Objekte in Klassen A, B und C einstuft. Dabei wird von A bis C in absteigender Reihenfolge eine Bedeutung zugeordnet.<br/>Bei der ABC-Analyse vergleicht man beispielsweise, welche Kunden für den Hauptumsatz des Unternehmens verantwortlich sind und somit in klasse A eingestuft werden. Kunden, Welche am wenigsten zum Umsatz beitragen, kommen in die Klasse C. In Klasse B kommen die Kunden, die nur durchschnittlich zum Umsatzerfolg beitragen.<br/>Somit erhalten wir eine Art Ranking über den Umsatzerfolg, ähnlich dem Pareto-Prinzip (80/20-Regel)."
   },
   {
     "id": 39,
@@ -237,7 +237,7 @@
     "id": 40,
     "title": 6,
     "question": "Ergänze nach dem Vier-Ohren-Modell (Sachebene, Appell, Selbstoffenbarung und Beziehung) die folgenden Aussagen eines Kunden gegenüber eines Vertriebsmitarbeiters.</br>Der Kunde sagt:</br><li>Sie müssen pünktlich liefern!</li><li>Ich bin mit Ihnen nicht zufrieden.</li><li>Sie haben nicht pünktlich geliefert.</li><li>Ich kontrolliere Ihre Leistungen sehr genau.</li><ol></ol>",
-    "answer": "Folgende Aspekte möchte der Kunde nach dem Vier-Ohren-Modell vermitteln:</br>Appell - 1. Sie müssen pünktlich liefern!</br>Beziehung - 2. Ich bin mit Ihnen nicht zufrieden.</br>Sachebene - 3. Sie haben pünktlich geliefert.</br>Selbstoffenbarung - 4. Ich kontrolliere Ihre Leistungen sehr genau."
+    "answer": "Folgende Aspekte möchte der Kunde nach dem Vier-Ohren-Modell vermitteln:</br>Appell - 1. Sie müssen pünktlich liefern!</br>Beziehung - 2. Ich bin mit Ihnen nicht zufrieden.</br>Sachebene - 3. Sie haben nicht pünktlich geliefert.</br>Selbstoffenbarung - 4. Ich kontrolliere Ihre Leistungen sehr genau."
   },
   {
     "id": 41,
@@ -255,13 +255,13 @@
     "id": 43,
     "title": 6,
     "question": "Was ist eine Nutzwertanalyse?",
-    "answer": "Die <strong>Nutzwertanalyse</strong> stellt im Allgemneinen eine Entscheidungshilfe dar, wenn es um komplexe Handlungsalternativen geht. Mittels eines Punktwertverfahrens, eines Punktbewertungsverfahrens oder eines Scoring-modells werden verschiedene Bewertungskriterien erstellt und mehrere Produkte oder Services miteinander verglichen. Die Nutzwertanalyse dient zur Entscheidungsfindung bei komplexen Problemen.</br> Der Bewertungsmaßstab kann indiviuell, zum Beispiel als eine 4 Punkte Skala mit: 1 = gering, 2 = mittel, 3 = hoch, 4 = sehr hoch, festgelegt werden."
+    "answer": "Die <strong>Nutzwertanalyse</strong> stellt im Allgemeinen eine Entscheidungshilfe dar, wenn es um komplexe Handlungsalternativen geht. Mittels eines Punktwertverfahrens, eines Punktbewertungsverfahrens oder eines Scoring-modells werden verschiedene Bewertungskriterien erstellt und mehrere Produkte oder Services miteinander verglichen. Die Nutzwertanalyse dient zur Entscheidungsfindung bei komplexen Problemen.</br> Der Bewertungsmaßstab kann individuell, zum Beispiel als eine 4 Punkte Skala mit: 1 = gering, 2 = mittel, 3 = hoch, 4 = sehr hoch, festgelegt werden."
   },
   {
     "id": 44,
     "title": 6,
     "question": "Unternehmen müssen ihre Produkte am Markt anbieten. Dazu benötigen sie einen Vertriebspartner oder ein Vertriebsnetz.<br/>Nenne Vor- und Nachteile eines direkten Vertriebs.",
-    "answer": "Beim <strong>direkten Vertrieb</strong> bietet der Anbieter seine Produkte oder seine Dienstleistungen unmittelbar an.<br/><strong>Vorteile:</strong><br/><ol><li>die Gewinnspanne ist höher (Provisionen für Zwischenhändler entfallen)</li><li>Endverbraucher haben kurz kommunikations- und Vertriebswege</li><li>Vertriebsmitarbeitende sind eigene Mitarbeitende und können aktiven und schnell neue Produkte anbieten</li><li>engenere Kundenbindung durch persönliche Kundenkommunikation</li></ol><br/><strong>Nachteile:</strong><br/><ol><li>eigenes Vertriebsnetz bindet viel Kapital</li><li>personalintensiv, hohe Fixkosten</li><li>Massendistribution nur bedingt umsetzbar</li></ol><br/>Hisweis: Der direkte Vertrieb (Unternehmen ->"
+    "answer": "Beim <strong>direkten Vertrieb</strong> bietet der Anbieter seine Produkte oder seine Dienstleistungen unmittelbar an die Endabnehmer bzw. Endverbraucher an.<br/><strong>Vorteile:</strong><br/><ol><li>die Gewinnspanne ist höher (Provisionen für Zwischenhändler entfallen)</li><li>Endverbraucher haben kurz kommunikations- und Vertriebswege</li><li>Vertriebsmitarbeitende sind eigene Mitarbeitende und können aktiven und schnell neue Produkte anbieten</li><li>engere Kundenbindung durch persönliche Kundenkommunikation</li></ol><br/><strong>Nachteile:</strong><br/><ol><li>eigenes Vertriebsnetz bindet viel Kapital</li><li>personalintensiv, hohe Fixkosten</li><li>Massendistribution nur bedingt umsetzbar</li></ol><br/>Hinweis: Der direkte Vertrieb (Unternehmen -> Kunde) ist der Gegensatz zum indirekten Vertrieb (Unternehmen -> Zwischenhändler -> Kunde)."
   },
   {
     "id": 45,
@@ -279,13 +279,13 @@
     "id": 47,
     "title": 1,
     "question": "Worin besteht in der Virtualisierung von Hostsystemen der Unterschied zwischen dem Hypervisor Typ 1 und Typ 2?",
-    "answer": "Der Hypervisor Typ 1, auch native oder bare-metal Hypervisor genannt, setzt direkt auf der Hardware des Hostsystems auf. Daher ist keine vorherige Betriebssystem-Installation notwendig.<br/>Der Hypervisor Typ 2, auch hosted Hypervisor genannt, benötigt ein lauffähiges vollwertiges Betriebssystem, um auf diesem Hostsystem auf die Gerätetreiber des Betriebssystems bzw. auf die Hardware des Hostsystems zuzugreifen.<br/>Bei beiden Hypervisor-Typen gilt die Voraussetzung, dass die Hardware bzw. das BIOS/URFI des Hostsystems die Virtualisierung, bei Intel CPU (intel-VT) oder bei AMD CPU (AMD-V) unterstützt."
+    "answer": "Der Hypervisor Typ 1, auch native oder bare-metal Hypervisor genannt, setzt direkt auf der Hardware des Hostsystems auf. Daher ist keine vorherige Betriebssystem-Installation notwendig.<br/>Der Hypervisor Typ 2, auch hosted Hypervisor genannt, benötigt ein lauffähiges vollwertiges Betriebssystem, um auf diesem Hostsystem auf die Gerätetreiber des Betriebssystems bzw. auf die Hardware des Hostsystems zuzugreifen.<br/>Bei beiden Hypervisor-Typen gilt die Voraussetzung, dass die Hardware bzw. das BIOS/UEFI des Hostsystems die Virtualisierung, bei Intel CPU (intel-VT) oder bei AMD CPU (AMD-V) unterstützt."
   },
   {
     "id": 48,
     "title": 1,
     "question": "Welche Funktionen bietet eine Dockingstation für Notebook?",
-    "answer": "Eine <strong>Dockingstation</strong> (englisch to dock „andocken“, oder auch „koppeln“) wird verwendet, wenn mobile Geräte, wie zum Beispiel Notebooks oder PDAs, mit einem festen Netz verbunden werden sollen.<br/>Dockingstationen für Notebooks werden auch als Portreplikatoren eingesetzt, sodass vorhandene Ports an die Dockingstation „durchgereicht“ werden. Des weitere werden auch zusätliche Schnittstellen wie PS/2 Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound oder Firewire, welche im mobilen Gerät selbst aus Platzgründen fehlen, an der Dockingstation bereitgestellt.<br/>Häufig verfügen die modernen Dockingstationen über die Möglichkei 2x HDMI, 2x DVI oder 2x DisplayPort zu nutzen."
+    "answer": "Eine <strong>Dockingstation</strong> (englisch to dock „andocken“, oder auch „koppeln“) wird verwendet, wenn mobile Geräte, wie zum Beispiel Notebooks oder PDAs, mit einem festen Netz verbunden werden sollen.<br/>Dockingstationen für Notebooks werden auch als Portreplikatoren eingesetzt, sodass vorhandene Ports an die Dockingstation „durchgereicht“ werden. Des weiteren werden auch zusätzliche Schnittstellen wie PS/2 Seriell- und Parallelport, DVI, DisplayPort, HDMI, Sound oder Firewire, welche im mobilen Gerät selbst aus Platzgründen fehlen, an der Dockingstation bereitgestellt.<br/>Häufig verfügen die modernen Dockingstationen über die Möglichkeit 2x HDMI, 2x DVI oder 2x DisplayPort zu nutzen."
   },
   {
     "id": 49,
@@ -297,18 +297,18 @@
     "id": 50,
     "title": 1,
     "question": "Welche technischen Merkmalen hat ein Notebook?",
-    "answer": "Ein Notebook hat folgende Bestandteile:<br/><ol><li>tielweise Anschluss für Dockingstation</li><li>teilweise Mini-PCI-Express Slot</li><li>teilweise 4-in-1 Kartenlesegerät</li><li>teilweise integriertes Bluetooth, WLAN und WWAN</li><li>eigenes Display</li><li>externe Schnittstellen wie USB, HDMI, DisplayPort/mini DisplayPort, VGA, Firewire</li><li>integrierte Lautsprecher und Mikrofone</li><li>teilweise Videokamera</li><li>Akku</li><li>externes Netzteil</li><li>interne Netzwerkkarte</li></ol>"
+    "answer": "Ein Notebook hat folgende Bestandteile:<br/><ol><li>teilweise Anschluss für Dockingstation</li><li>teilweise Mini-PCI-Express Slot</li><li>teilweise 4-in-1 Kartenlesegerät</li><li>teilweise integriertes Bluetooth, WLAN und WWAN</li><li>eigenes Display</li><li>externe Schnittstellen wie USB, HDMI, DisplayPort/mini DisplayPort, VGA, Firewire</li><li>integrierte Lautsprecher und Mikrofone</li><li>teilweise Videokamera</li><li>Akku</li><li>externes Netzteil</li><li>interne Netzwerkkarte</li></ol>"
   },
   {
     "id": 51,
     "title": 1,
     "question": "Welchen Vorteil bringt der Einsatz von Dual-Channel-Technik bei Speichermodulen?",
-    "answer": "Mithilfe der <strong>Dual-Channel-Technik</strong> kann der Speichercontroller des Prozessesors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdopplet sich die Datenrate.<br/>Voraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden."
+    "answer": "Mithilfe der <strong>Dual-Channel-Technik</strong> kann der Speichercontroller des Prozessors die Daten auf zwei Arbeitsspeichermodule gleichzeitig aufteilen und somit parallel schreiben und lesen. Dadurch verdoppelt sich die Datenrate.<br/>Voraussetzung ist, dass die eingebauten Speichermodule baugleich sind, eine identische Modulkapazität besitzen sowie paarweise verteilt werden."
   },
   {
     "id": 52,
     "title": 1,
-    "question": "Was verbirget sich hinter Bezeichnung UHD 4K?",
+    "question": "Was verbirgt sich hinter Bezeichnung UHD 4K?",
     "answer": "<strong>UHD (Ultra High Definition) 4K</strong> bezeichnet ein digitales Videoformat der International Telecommunication Union (ITU) für Ultra High Definition Television (UHDTV oder Ultra HDTV) sowie Ultra High Definition Video (UHDV).<br/>UHD 4K wird heute auch als UHD-1 bezeichnet und lehnt sich am Cinema 4K (4096 x 2160 Pixel) an. Die Hersteller spezifizieren jedoch ihre Geräte mit 3840 x 2160 Pixeln heute oftmals auch als UHD 4K."
   },
   {
@@ -321,7 +321,13 @@
     "id": 54,
     "title": 1,
     "question": "Welche IT-Komponenten sind Ein- oder Ausgabegeräte? Ordne Richtig zu!</br><ol><li>Scanner</li><li>Maus</li><li>Touchpad</li><li>Drucker</li><li>Display</li></ol>",
-    "answer": "<strong>Eingabegeräte</strong><ol><li>Scanner</li><li>Maus</li><li>Touchpad</li></ol></br><strong>Ausgabgeräte</strong><ol><li>Drucker</li><li>Display</li></ol>"
+    "answer": "<strong>Eingabegeräte</strong><ol><li>Scanner</li><li>Maus</li><li>Touchpad</li></ol></br><strong>Ausgabegeräte</strong><ol><li>Drucker</li><li>Display</li></ol>"
+  },
+  {
+    "id": 55,
+    "title": 1,
+    "question": "Welche Schnittstellen sind auf dem Bild zu sehen?</br><img src=\"schnittstellen_frage.png\" alt=\"Schnittstelle_Frage\">",
+    "answer": "<img src=\"schnittstellen_antwort.png\" alt=\"Schnittstelle_Antwort\">"
   },
   {
     "id": 56,
