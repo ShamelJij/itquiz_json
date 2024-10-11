@@ -376,25 +376,25 @@
     "id": 63,
     "title": 1,
     "question": "IT-Infrastrukturen werden heute 7/24 (7 Tage die Woche/24 Stunden, auch 24/7) betrieben. Welche Aufgabe übernimmt in diesem Zusammenhang eine USV?",
-    "answer": "Eine <strong>unterbrechungsfreie Stromversorgung (USV)</strong> soll die elektrische Versorgung der Systemrelevanten IT-Komponenten 7/24 sicherstellen sowie Strörungen im Stromnetz zeitlich überbrücken.<br/>Des Weiteren schützt eine USV, je nach USV-Klassifizierung, die angeschlossenen IT-Komponenten vor folgenden Strörungen:<br/><ol><li>kompletter Stromausfall</li><li>vor Unterspannung</li><li>vor Überspannung</li><li>vor Frequenzabweichung</li><li>vor Oberschwingungen</li></ol>"
+    "answer": "Eine <strong>unterbrechungsfreie Stromversorgung (USV)</strong> soll die elektrische Versorgung der Systemrelevanten IT-Komponenten 7/24 sicherstellen sowie Störungen im Stromnetz zeitlich überbrücken.<br/>Des Weiteren schützt eine USV, je nach USV-Klassifizierung, die angeschlossenen IT-Komponenten vor folgenden Störungen:<br/><ol><li>kompletter Stromausfall</li><li>vor Unterspannung</li><li>vor Überspannung</li><li>vor Frequenzabweichung</li><li>vor Oberschwingungen</li></ol>"
   },
   {
     "id": 64,
     "title": 1,
     "question": "Welche Aufgabe übernimmt ein Datenbankmanagementsystem, kurz DBMS?",
-    "answer": "Ein Datenbankmanagementsystem übernimmt folgende Aufgaben:<br/><ol><li>Speicherung, Veränderung und Löschung von Daten</li><li>Verwaltung der Metadaten</li><li>Gewährleistung der Datensicherheit und des Datenschutzes</li><li>trifft Vorkehrungen zur Datenintegrität</li><li>stellt den Mehrbenutzerbetrieb durch das Transaktionskonzept sicheren</li><li>unterstützt die Optimierung von Abfragen</li><li>ermöglicht Triggern und Stored Procedures</li><li>Bereitstellung von Informationen über Technik und Betrieb</li></ol>"
+    "answer": "Ein Datenbankmanagementsystem übernimmt folgende Aufgaben:<br/><ol><li>Speicherung, Veränderung und Löschung von Daten</li><li>Verwaltung der Metadaten</li><li>Gewährleistung der Datensicherheit und des Datenschutzes</li><li>trifft Vorkehrungen zur Datenintegrität</li><li>stellt den Mehrbenutzerbetrieb durch das Transaktionskonzept sicher</li><li>unterstützt die Optimierung von Abfragen</li><li>ermöglicht Triggern und Stored Procedures</li><li>Bereitstellung von Informationen über Technik und Betrieb</li></ol>"
   },
   {
     "id": 65,
     "title": 1,
     "question": "Welche Eigenschaften haben die folgenden RAID-Level?<br/><ol><li>RAID 0</li><li>RAID 1</li><li>RAID 5</li><li>RAID 6</li><li>RAID 10</li></ol>",
-    "answer": "<table class='table table-striped text-center'><thead><tr><th>Betrieb</th><th>RAID 0</th><th>RAID 1</th><th>RAID 5</th><th>RAID 6</th><th>RAID 10</th></tr></theat><tbody><tr><th scope='row'>Redundanz</th><td>nein</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td></tr><tr><th scope='row'>min. Datenträgern</th><td>2</td><td>2</td><td>≤3</td><td>≤4</td><td>≤4</td></tr><tr><th scope='row'>Rechenaufwand</th><td>sehr gering</td><td>sehr gering</td><td>mittel</td><td>hoch</td><td>hoch</td></tr><tr><th scope='row'>Felertoleranz Ausfall von Datenträgern</th><td>0</td><td>1</td><td>1</td><td>2</td><td>1 (2*)</td></tr><tr><th scope='row'>Lese-Performance</th><td>+++</td><td>++</td><td>+++</td><td>+++</td><td>+++</td></tr><tr><th scope='row'>Schreib-Performance</th><td>++</td><td>-</td><td>+</td><td>+</td><td>+++</td></tr><tr><th scope='row'>Kapazität Netto</th><td>100%</td><td>50%</td><td>n-1</td><td>n-2</td><td>50%</td></tr></tbody></table><br/>2* ist abhängig von den „richtigen“ beiden ausgefallenen DAtenträgern"
+    "answer": "<table class='table table-striped text-center'><thead><tr><th>Betrieb</th><th>RAID 0</th><th>RAID 1</th><th>RAID 5</th><th>RAID 6</th><th>RAID 10</th></tr></thead><tbody><tr><th scope='row'>Redundanz</th><td>nein</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td></tr><tr><th scope='row'>min. Datenträgern</th><td>2</td><td>2</td><td>≥3</td><td>≥4</td><td>≥4</td></tr><tr><th scope='row'>Rechenaufwand</th><td>sehr gering</td><td>sehr gering</td><td>mittel</td><td>hoch</td><td>hoch</td></tr><tr><th scope='row'>Fehlertoleranz Ausfall von Datenträgern</th><td>0</td><td>1</td><td>1</td><td>2</td><td>1 (2*)</td></tr><tr><th scope='row'>Lese-Performance</th><td>+++</td><td>++</td><td>+++</td><td>+++</td><td>+++</td></tr><tr><th scope='row'>Schreib-Performance</th><td>++</td><td>-</td><td>+</td><td>+</td><td>+++</td></tr><tr><th scope='row'>Kapazität Netto</th><td>100%</td><td>50%</td><td>n-1</td><td>n-2</td><td>50%</td></tr></tbody></table><br/>2* ist abhängig von den „richtigen“ beiden ausgefallenen Datenträgern"
   },
   {
     "id": 66,
     "title": 1,
-    "question": "Was ist eien DMZ?",
-    "answer": "Eine DMZ (Demilitarisierte Zone) trennt durch ein Subnetz mit Hilfe von Firewall-Routern das interene Netzwerk vom extrernen Netzwerk ab.<br/>Der gesamte Datenverkehr zwischen dem internen und externen Netzwerk unterliegt Regeln, sogenannten Firewall-Regeln. In der Firewall wird geregelt, welche Datenpakete in welcher Richtung das Subnetz passieren dürfen.<br/>Innerhalb der DMZ befinden sich normalerweise Mail-, Datei, Proxy- und Webserver, die geschützt werden müssen gegen interne und externe Angriffe.<br/>Es gibt die einstufige und zweistufige DMZ."
+    "question": "Was ist eine DMZ?",
+    "answer": "Eine DMZ (Demilitarisierte Zone) trennt durch ein Subnetz mit Hilfe von Firewall-Routern das interne Netzwerk vom externen Netzwerk ab.<br/>Der gesamte Datenverkehr zwischen dem internen und externen Netzwerk unterliegt Regeln, sogenannten Firewall-Regeln. In der Firewall wird geregelt, welche Datenpakete in welcher Richtung das Subnetz passieren dürfen.<br/>Innerhalb der DMZ befinden sich normalerweise Mail-, Datei, Proxy- und Webserver, die geschützt werden müssen gegen interne und externe Angriffe.<br/>Es gibt die einstufige und zweistufige DMZ.<br/><img src=\"einstufige-dmz.png\" alt=\"Einstufige-DMZ\"><br/><img src=\"zweistufige-dmz.png\" alt=\"zweistufige-DMZ\">"
   },
   {
     "id": 67,
