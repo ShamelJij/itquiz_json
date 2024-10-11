@@ -326,20 +326,20 @@
   {
     "id": 55,
     "title": 1,
-    "question": "Welche Schnittstellen sind auf dem Bild zu sehen?</br><img src=\"schnittstellen_frage.png\" alt=\"Schnittstelle_Frage\">",
-    "answer": "<img src=\"schnittstellen_antwort.png\" alt=\"Schnittstelle_Antwort\">"
+    "question": "Welche Schnittstellen sind auf dem Bild zu sehen?</br></br><img src=\"schnittstellen_frage.png\" alt=\"Schnittstelle_Frage\">",
+    "answer": "<img src=\"schnittstellen_antwort.png\" alt=\"Schnittstelle_antwort\">"
   },
   {
     "id": 56,
     "title": 1,
     "question": "Nenne die verschiedenen Cloud-Formen, die durch Cloud Computing angeboten werden.",
-    "answer": "<strong>Public Cloud</strong> die öffentliche Rechnerwolke: Stellt Zugang zu abstrahierten IT-Infrastrukturen für die breite Öffentlichkeit über das Internet bereit.<br/><strong>Private Cloud</strong> die private Rechnerwolke: Stellt ausschließlich für eine Organisation oder ein Unternehmen den Zugang in eine Cloud-Umgebung bereit.<br/><strong>Hybrid Cloud</strong> die hybrid Rechnerwolke: Ist eine Kombination aus Public und Private Cloud<br/><strong>Community Cloud</strong> die gemeinschaftliche Rechnerwolke: Stellt Zugang zu abstrahierten IT-Infrastrukturen wie bei der Public Cloud bereit, jedoch nur für bestimmte Nutzergruppen (wie städtische Behörden, Universitäten, Firmen mit ähnlichen Interessen, Forschungsgemeinschaften, Genossenschaften, usw.).<br/><u>Weiterhin gibt es Mischformen der oben genannten Cloud-Typen:</u><br/><strong>Virtual Private Could</strong> eine private Rechnerwolke auf öffentlichzugänglichen IT-Infrastrukturen<br/><strong>Multi Cloud</strong> Sie bündelt die verschiedenen Cloud-Computing-Dienste"
+    "answer": "<strong>Public Cloud</strong> die öffentliche Rechnerwolke: Stellt Zugang zu abstrahierten IT-Infrastrukturen für die breite Öffentlichkeit über das Internet bereit.<br/><strong>Private Cloud</strong> die private Rechnerwolke: Stellt ausschließlich für eine Organisation oder ein Unternehmen den Zugang in eine Cloud-Umgebung bereit.<br/><strong>Hybrid Cloud</strong> die hybrid Rechnerwolke: Ist eine Kombination aus Public und Private Cloud<br/><strong>Community Cloud</strong> die gemeinschaftliche Rechnerwolke: Stellt Zugang zu abstrahierten IT-Infrastrukturen wie bei der Public Cloud bereit, jedoch nur für bestimmte Nutzergruppen (wie städtische Behörden, Universitäten, Firmen mit ähnlichen Interessen, Forschungsgemeinschaften, Genossenschaften, usw.).<br/><u>Weiterhin gibt es Mischformen der oben genannten Cloud-Typen:</u><br/><strong>Virtual Private Cloud</strong> eine private Rechnerwolke auf öffentlichzugänglichen IT-Infrastrukturen<br/><strong>Multi Cloud</strong> Sie bündelt die verschiedenen Cloud-Computing-Dienste"
   },
   {
     "id": 57,
     "title": 1,
     "question": "Was versteht man unter dem Begriff Green-It?",
-    "answer": "Unter <strong>Green-IT</strong> versteht man alle Bestrebungen, die Nutzung von Informations- und Kommunikationstechnik (IuK) über deren gesamten Lebenszyklus hinweg umwelt- und ressourcenschonend zu gestalten.<br/>Darunter fallen folgende Aspekte:<br/><ol><li>Optimierung des Ressourcenverbrauchs während des Herstellungsprozesses, des Betriebs und der Entsorgung der Geräte</li><li>Ressourceneinsparung durch den Einsatz von Virtualisierungstechniken</li><li>Einsatz von Videokonferenzen (dadurch weniger Diensreisen)</li><li>Einsatz von Stromparmodi</li></ol>"
+    "answer": "Unter <strong>Green-IT</strong> versteht man alle Bestrebungen, die Nutzung von Informations- und Kommunikationstechnik (IuK) über deren gesamten Lebenszyklus hinweg umwelt- und ressourcenschonend zu gestalten.<br/>Darunter fallen folgende Aspekte:<br/><ol><li>Optimierung des Ressourcenverbrauchs während des Herstellungsprozesses, des Betriebs und der Entsorgung der Geräte</li><li>Ressourceneinsparung durch den Einsatz von Virtualisierungstechniken</li><li>Einsatz von Videokonferenzen (dadurch weniger Dienstreisen)</li><li>Einsatz von Stromsparmodi</li></ol>"
   },
   {
     "id": 58,
@@ -351,12 +351,13 @@
     "id": 59,
     "title": 1,
     "question": "Nenne die Vorteile des Servicemodells PaaS (Platform as a Service).",
-    "answer": " Folgende Vorteile ergeben sich bei der Nutzung des Servicemodells <strong>PaaS</strong><br/><ol><li>reduzierter Programmieraufwand, da mit den PaaS-Entwicklungstools sich der Zeitaufwand für das Schreiben von Code für neue Apps reduziert.</li><li>Zusätzliche Entwicklungsmöglichkeiten, ohne dass neue Mitarbeitende eingestellt werden müssen.<br/>Entwicklungsteams können neue Funktionen mit Hilfe der PaaS-Kompnenten nutzen, ohne diese selbst entwickeln zu müssen.</li><li>Einfachere Enwicklung für mehrere Plattformen, teilweise werden Entwicklungsoptionen für mehrere Plattformen wie Computer, Mobilgeräte und Broswer vom Provider angeboten.</li><li>Kostengünstige Nutzung der Tools.</li><li>Effiziente Verwaltung des Anwendungslebenszyklus.</li></ol>"
+    "answer": " Folgende Vorteile ergeben sich bei der Nutzung des Servicemodells <strong>PaaS</strong><br/><ol><li>reduzierter Programmieraufwand, da mit den PaaS-Entwicklungstools sich der Zeitaufwand für das Schreiben von Code für neue Apps reduziert.</li><li>Zusätzliche Entwicklungsmöglichkeiten, ohne dass neue Mitarbeitende eingestellt werden müssen.<br/>Entwicklungsteams können neue Funktionen mit Hilfe der PaaS-Komponenten nutzen, ohne diese selbst entwickeln zu müssen.</li><li>Einfachere Entwicklung für mehrere Plattformen, teilweise werden Entwicklungsoptionen für mehrere Plattformen wie Computer, Mobilgeräte und Browser vom Provider angeboten.</li><li>Kostengünstige Nutzung der Tools.</li><li>Effiziente Verwaltung des Anwendungslebenszyklus.</li></ol>"
+
   },
   {
     "id": 60,
     "title": 1,
-    "question": "Erkäre den Cloud Computing Begriff Software as a Service (SaaS).",
+    "question": "Erkläre den Cloud Computing Begriff Software as a Service (SaaS).",
     "answer": "<strong>Software as a Service</strong> beschreibt ein Cloud-Konzept, bei dem Software nicht länger als Lizenz an einen Benutzer verkauft wird, sondern ihm gleich als Service in der Cloud zur Verfügung gestellt wird. Der Zugriff auf die Software wird bei einigen Cloudanbietern via Webbrowser gewährleistet."
   },
   {
@@ -368,8 +369,8 @@
   {
     "id": 62,
     "title": 1,
-    "question": "Eine unterbrechungsfreie Stromversorgung (USV) wird nach der USV-Klassifizierung nach IEC 62040-3 in 3 Klassen unterteilt.<br/>Nenne die 3 Klassen und erkläre deren Wirkungsweise stichpunktartig.",
-    "answer": "<strong>Klasse 1: VFI</strong> (Voltage and Frequency Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, Unterspannung, Überspannung als auch vor Frequenzschwankungen sowie vor Oberschwingungen<br/><strong>Klasse 2: VI</strong> (Voltage Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, vor Unterspannung und vor Überspannung<br/><strong>Klasse 3: VFD</strong> (Voltage and Frequency Dependent on mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, jedoch mit einer Verzögerung von bis zu 10 Millisekunden (ms)"
+    "question": "Eine unterbrechungsfreie Stromversorgung (USV) wird nach der USV-Klassifizierung nach IEC 62040-3 in 3 Klassen unterteilt.<br/>Nenne die <strong>3</strong> Klassen und erkläre deren Wirkungsweise stichpunktartig.",
+    "answer": "<strong>Klasse 1: VFI</strong> (Voltage and Frequency Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, Unterspannung, Überspannung als auch vor Frequenzschwankungen sowie vor Oberschwingungen<br/><img src=\"vfi.png\" alt=\"USV-VFI\"><strong>Klasse 2: VI</strong> (Voltage Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, vor Unterspannung und vor Überspannung<br/><img src=\"vi.png\" alt=\"USV-VI\"><strong>Klasse 3: VFD</strong> (Voltage and Frequency Dependent on mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, jedoch mit einer Verzögerung von bis zu 10 Millisekunden (ms)</br><img src=\"vi.png\" alt=\"USV-VI\">"
   },
   {
     "id": 63,
