@@ -465,7 +465,7 @@
     "id": 78,
     "title": 1,
     "question": "Worin unterscheiden sich die Lichtwellenleiter der Single- und Multimodefasern?",
-    "answer": "Die Unterscheidung zwischen Singlemode und Multimode Glasfaser besteht darin, dass Singlemode Glasfaserkabel einen erheblich geringeren Faserkerndurchmesser als Multimode Glasfaserkabel haben.<br/>Der Faserkern bei einem Singlemode Glasfaserkabel hat einen Durchmesser von 9µm, im Unterschied zu Multimode Glasfaserkabel, welche einen Faserkern von 50µm bzw. 62,5µm Durchmesser besitzen. Das umgebende Mantelglas hat jeweils einen Durchmesser von 125µm. Je nach Übertragungsrate erreichen Multimodefasern bis 2.000 Meter und Singlemodefasern bis 10.000 Meter Reichweite.<img src=\"single_vs_multimode.png\" alt=\"Glasfaser\" width=\"800\" height=\"400\">"
+    "answer": "Die Unterscheidung zwischen Singlemode und Multimode Glasfaser besteht darin, dass Singlemode Glasfaserkabel einen erheblich geringeren Faserkerndurchmesser als Multimode Glasfaserkabel haben.<br/>Der Faserkern bei einem Singlemode Glasfaserkabel hat einen Durchmesser von 9µm, im Unterschied zu Multimode Glasfaserkabel, welche einen Faserkern von 50µm bzw. 62,5µm Durchmesser besitzen. Das umgebende Mantelglas hat jeweils einen Durchmesser von 125µm. Je nach Übertragungsrate erreichen Multimodefasern bis 2.000 Meter und Singlemodefasern bis 10.000 Meter Reichweite.<img src=\"single_vs_multimode.png\" alt=\"Glasfaser\" width=\"600\" height=\"400\">"
   },
   {
     "id": 79,
@@ -477,7 +477,7 @@
     "id": 80,
     "title": 1,
     "question": "Nenne Vor- und Nachteile von Multimodefasern.",
-    "answer": "Vorteile:<br/><ol><li>geringerer Aufwand in der Herstellung der Glasfasern</li><li>einfachere Verbindungstechnik aufgrund des größeren Kerndurchmessers</li><li>Fasern mit Stufenindex- und Gradienteinindexprofil verfügbar</li></ol><br/>Nachteile:<br/><ol><li>größere Signaldämpfung und Laufzeitverschiebung</li><li>geringere maximale Bandbreiten</li><li>nur kürzere Distanzen überbrückbar</li><li>Verstärker oder Signalaufbereiter bei größeren Distanzen notwenig</li></ol>"
+    "answer": "Vorteile:<br/><ol><li>geringerer Aufwand in der Herstellung der Glasfasern</li><li>einfachere Verbindungstechnik aufgrund des größeren Kerndurchmessers</li><li>Fasern mit Stufenindex- und Gradientenindexprofil verfügbar</li></ol><br/>Nachteile:<br/><ol><li>größere Signaldämpfung und Laufzeitverschiebung</li><li>geringere maximale Bandbreiten</li><li>nur kürzere Distanzen überbrückbar</li><li>Verstärker oder Signalaufbereiter bei größeren Distanzen notwendig</li></ol>"
   },
   {
     "id": 81,
@@ -489,16 +489,16 @@
     "id": 82,
     "title": 1,
     "question": "Welche Aufgaben hat ein DHCP-Server innerhalb der IT-Infrastruktur?",
-    "answer": "Das Dynamic Host Configuration Protocol (DHCP) ist ein Kommunikations-Protokoll, welches Netzwerkgeräten ermöglicht ohne manuelle Konfiguration eine automatische Netzwerkkonfiguration für das lokalen Netz zu erhalten.<br/>Mit Hilfe des DHCPDISCOVER sendet ein Client/Netzwerkgeräte ohne IP-Adresse eine Broadcast-Anfrage nach sogenannten Adress-Angeboten an alle verfügbaren DHCP-Server im lokalen Netz. Wenn im lokalen Netz ein DHCP-Server erreichbar ist, antwortet dieser mit einem DHCPOFFER. Im Anschluss fordert der Client im Zuge des Verfahrens mit Hilfe des DHCPREQUEST die angebotene IP-Adresse für einen Lease-Zeitraum an. Dabei wird unterschieden in statische, automatische und dynamische Adresszuweizung.<br/>Die Adresszuweizung erfolgt über die UDP-Ports 67 und 68.<br/>Zur Netzwerkkonfiguration kann ein DHCP folgende Angaben versenden:<ol><li>IP-Adresse und Netzwerkmaske</li><li>Default-Gateway</li><li>DNS-Server, DNS-Context und DNS-Tree</li><li>Sekundärer DNS-Server</li><li>Time- und NTP-Server</li><li>WINS-Server (für Microsoft Windows Clients)</li><li>Proxy-Konfiguration via WPAD</li><li>weitere DHCP Optionen z. B. Angaben für PXE-Boot</li></ol>"
+    "answer": "Das Dynamic Host Configuration Protocol (DHCP) ist ein Kommunikations-Protokoll, welches Netzwerkgeräten ermöglicht ohne manuelle Konfiguration eine automatische Netzwerkkonfiguration für das lokalen Netz zu erhalten.<br/>Mit Hilfe des DHCPDISCOVER sendet ein Client/Netzwerkgeräte ohne IP-Adresse eine Broadcast-Anfrage nach sogenannten Adress-Angeboten an alle verfügbaren DHCP-Server im lokalen Netz. Wenn im lokalen Netz ein DHCP-Server erreichbar ist, antwortet dieser mit einem DHCPOFFER. Im Anschluss fordert der Client im Zuge des Verfahrens mit Hilfe des DHCPREQUEST die angebotene IP-Adresse für einen Lease-Zeitraum an. Dabei wird unterschieden in statische, automatische und dynamische Adresszuweisung.<br/>Die Adresszuweisung erfolgt über die UDP-Ports 67 und 68.<br/>Zur Netzwerkkonfiguration kann ein DHCP folgende Angaben versenden:<ol><li>IP-Adresse und Netzwerkmaske</li><li>Default-Gateway</li><li>DNS-Server, DNS-Context und DNS-Tree</li><li>Sekundärer DNS-Server</li><li>Time- und NTP-Server</li><li>WINS-Server (für Microsoft Windows Clients)</li><li>Proxy-Konfiguration via WPAD</li><li>weitere DHCP Optionen z. B. Angaben für PXE-Boot</li></ol>"
   },{
        "id": 83,
        "title": 1,
        "question":"Vergleiche die Protokolle UDP und TCP miteinander und fülle die folgende Tabelle aus.",
-       "answer":"<table class='table table-striped table-responsive text-center'><thead><tr><th>Eigenschaften</th><th>UDP<br/>User Datagram Protocol</th><th>TCP<br/>Transmission Control Protocol</th></tr></theat><tbody><tr><th scope='row'>Headergröße</th><td> 8 Byte</td><td>20 Byte</td></tr><tr><th scope='row'>Geschwindigkeit</th><td>hoch</td><td>geringer</td></tr><tr><th scope='row'>Paketverlusterkennung</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Ende zu Ende Kontrolle</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Fehlerbehebung</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Erkennung von Duplikaten</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Flusskontrolle</th><td>nein</td><td>ja</td><tr><th scope='row'>Zeitüberwachung der Verbindung</th><td>nein</td><td>ja</td></tr></tbody></table>"
+       "answer":"<table class='table table-striped table-responsive text-center'><thead><tr><th>Eigenschaften</th><th>UDP<br/>User Datagram Protocol</th><th>TCP<br/>Transmission Control Protocol</th></tr></thead><tbody><tr><th scope='row'>Headergröße</th><td>8 Byte</td><td>20 Byte</td></tr><tr><th scope='row'>Geschwindigkeit</th><td>hoch</td><td>geringer</td></tr><tr><th scope='row'>Paketverlusterkennung</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Ende zu Ende Kontrolle</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Fehlerbehebung</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Erkennung von Duplikaten</th><td>nein</td><td>ja</td></tr><tr><th scope='row'>Flusskontrolle</th><td>nein</td><td>ja</td><tr><th scope='row'>Zeitüberwachung der Verbindung</th><td>nein</td><td>ja</td></tr></tbody></table>"
    },{
        "id": 84,
        "title": 1,
-       "question":"Welche verkürte Schreibweise der IPv6-Adresse 2001:0db8:0f3c:00d7:7dab:03d0:0000:00ff sind erlaubt?",
+       "question":"Welche verkürzte Schreibweise der IPv6-Adresse 2001:0db8:0f3c:00d7:7dab:03d0:0000:00ff sind erlaubt?",
        "answer":"<ol><li>2001:db8:f3c:d7:7dab:3d:0:ff - nicht erlaubt</li><li><strong>2001:db8:f3c:d7:7dab:3d0:0:ff - erlaubt</strong></li><li><strong>2001:db8:f3c:d7:7dab:3d0::ff - erlaubt</strong></li><li>2001:0db8:0f3c:00d7:7dab:03d::00ff - nicht erlaubt</li></ol>"
    },{
        "id": 85,
@@ -509,7 +509,7 @@
   {
     "id": 86,
     "title": 1,
-    "question": "Wann kommt ein tagged VLAN (Virual Local Area Network) zum Einsatz?",
+    "question": "Wann kommt ein tagged VLAN (Virtual Local Area Network) zum Einsatz?",
     "answer": "Das <strong>tagged VLAN</strong> kommt immer dann zum Einsatz, wenn sich VLAN über mehrere Switches hinweg erstrechen, zum Beispiel über sogenannte Trunk Ports. Hier werden die Ethernet-Frames mit einer Art Markierung versehen, welche die Zugehörigkeit zum jeweiligen VLAN kennzeichnet. Mit Hilfe von Tags (engl. Etikett) werden dem Ethernet-Frame VLAN-spezifische Informationen hinzufügt, die dann durch VLAN-fähige Switche ausgewertet werden."
   },
   {
@@ -522,50 +522,46 @@
     "id": 88,
     "title": 1,
     "question": "Welche Aufgaben hat ein Domain Name System (DNS) in einer windows Domänenlandschaft bzw. Active Directory?",
-    "answer": "Das Domain Name System (DNS) stellt einen der wichtigsten Dienste in IP-basierten Netzwerken dar. Das Domain Name System dient der Beantwortung von Anfragen zur Namensauflösung.<br/>Konkret wird dabei der angefragte Name in eine IP-Adresse übersetzt und als Ergibnis der Anfrage zurück geliefert. In windowsbasierten Domänen kommt zusätzlich der Reverse Lookup Anfrage die Aufgabe zu, eine angefragte IP-Adresse als Namen zu ermitteln und als Ergebnis zurückzuliefern. Dieses Reverse Lookup wird mit Hilfe von PTR Ressource Records in der Reverse Lookup Zone des Active Directory gewährleistet."
+    "answer": "Das <strong>Domain Name System</strong> (DNS) stellt einen der wichtigsten Dienste in IP-basierten Netzwerken dar. Das Domain Name System dient der Beantwortung von Anfragen zur Namensauflösung.<br/>Konkret wird dabei der angefragte Name in eine IP-Adresse übersetzt und als Ergebnis der Anfrage zurück geliefert. In windowsbasierten Domänen kommt zusätzlich der Reverse Lookup Anfrage die Aufgabe zu, eine angefragte IP-Adresse als Namen zu ermitteln und als Ergebnis zurückzuliefern. Dieses Reverse Lookup wird mit Hilfe von PTR Ressource Records in der Reverse Lookup Zone des Active Directory gewährleistet."
   },
   {
     "id": 89,
     "title": 1,
-    "question": "Einer der wichtigen Dienste in der Informationstechnologie sind E-Mail-Dienste. Es kommen verschiedene e-Mailprotokolle dabei zum Einsatz. Unterschieide die Mailingprotokolle IMAP/S, SMTP/S sowie POP3/S nach ihren Eigenschaften.",
-    "answer": "<strong>SMTPS (Simple Mail Transfer Protocol Secure)</strong> bezeichnet ein Kommunikationsprotokoll des Postausgangs bei dem der E-Mail-Transport via SMTP über SSL/TLS über den Port 465 ermöglicht wird. Mit Hilfe von SSL/TLS wird die Authentifizierung der Kommunikationspartner auf Transportebene sowie Intergrität und Vertraulichkeit der übertragenen Nachrichten gewährleistet.<br/><strong>IMAPS (Internet Message Access Protocol Secure)</strong> ist ein E-Mail Kommunikationsprotokoll für den Posteingang, welcher mit SSL/TLS über den Port 993 den gesicherten Transport sicherstellt. Beim IMAP/IMAPS werden die Mails, Ordnerstrukturen und Einstellungen auf den Mail-Servern gespeichert und lokal synchronisiert.<br/><strong>POP3/S (Post Office Protocol 3 Secure)</strong> ist ein E-Mail Kommunikationsprotokoll für den Posteingang und nutzt eine Verschlüsselung mit Hilfe von SSL/TLS über den Port 995. Im Gegensatz zum IMAP Protokoll werden POP3 Posteingänge heruntergeladen bzw. anschließend bei Bedarf gelöscht."
-
+    "question": "Einer der wichtigen Dienste in der Informationstechnologie sind E-Mail-Dienste. Es kommen verschiedene e-Mailprotokolle dabei zum Einsatz. Unterscheide die Mailingprotokolle IMAP/S, SMTP/S sowie POP3/S nach ihren Eigenschaften.",
+    "answer": "<strong>SMTPS (Simple Mail Transfer Protocol Secure)</strong> bezeichnet ein Kommunikationsprotokoll des Postausgangs bei dem der E-Mail-Transport via SMTP über SSL/TLS über den Port 465 ermöglicht wird. Mit Hilfe von SSL/TLS wird die Authentifizierung der Kommunikationspartner auf Transportebene sowie Integrität und Vertraulichkeit der übertragenen Nachrichten gewährleistet.<br/><strong>IMAPS (Internet Message Access Protocol Secure)</strong> ist ein E-Mail Kommunikationsprotokoll für den Posteingang, welcher mit SSL/TLS über den Port 993 den gesicherten Transport sicherstellt. Beim IMAP/IMAPS werden die Mails, Ordnerstrukturen und Einstellungen auf den Mail-Servern gespeichert und lokal synchronisiert.<br/><strong>POP3/S (Post Office Protocol 3 Secure)</strong> ist ein E-Mail Kommunikationsprotokoll für den Posteingang und nutzt eine Verschlüsselung mit Hilfe von SSL/TLS über den Port 995. Im Gegensatz zum IMAP Protokoll werden POP3 Posteingänge heruntergeladen bzw. anschließend bei Bedarf gelöscht."
   },{
     "id": 90,
     "title": 1,
     "question": "Was bedeutet der Begriff Standby- oder Offline-USV?",
     "answer": "Die <strong>einfachen unterbrechungsfreien Stromversorgungen</strong> der USV-Klasse 3 sind Standby- bzw. Offline-USVs. Sie Schützen generell nur gegen Stromausfälle sowie kurzzeitige Spannungsschwankungen. Die Unter- und Überspannungen im Netz können nicht ausgeglichen werden. Wegen der doch recht langsamen Umschaltdauer von 4 bis 10 Millisekunden (ms) zwischen Netzbetrieb auf Batteriebetrieb können Störspannungen, Spannungseinbrüche und Spannungsspitzen unterhalb dieser Zeit nicht erkannt werden."
-
   },{
     "id": 91,
     "title": 1,
     "question": "Was versteht man unter einer Online-USV?",
-    "answer": "Die <strong>Online-USV (USV-Klasse 1)</strong> gilt als die teuerste Variante unter den unterbrechungsfreien Stromversorgungen, sie bietet jedoch auch den umfassendsten Schutz durch permanente Erzeugung einer Sinsspannung am Ausgang. Alle angeschlossenen Verbraucher werden dauerhaft und ohne Einschränkungen aufgeladen wird.<br/>Bei Netzausfall erfolgt ein unterbrechungsfreier Übergang auf die Batterieeinspeisung. Die Eingangsspannung kann zwischen 160 Volt und 290 Volt schwanken, während die Ausgang einer Online-USV ist frei von Störspannungen, elektromagnetischen Einflüssen, Frequenzstörungen und Spannungsverzerrungen."
-
+    "answer": "Die <strong>Online-USV (USV-Klasse 1)</strong> gilt als die teuerste Variante unter den unterbrechungsfreien Stromversorgungen, sie bietet jedoch auch den umfassendsten Schutz durch permanente Erzeugung einer Sinusspannung am Ausgang. Alle angeschlossenen Verbraucher werden dauerhaft und ohne Einschränkungen aufgeladen wird.<br/>Bei Netzausfall erfolgt ein unterbrechungsfreier Übergang auf die Batterieeinspeisung. Die Eingangsspannung kann zwischen 160 Volt und 290 Volt schwanken, während die Ausgang einer Online-USV ist frei von Störspannungen, elektromagnetischen Einflüssen, Frequenzstörungen und Spannungsverzerrungen."
   },{
     "id": 92,
     "title": 1,
     "question": "Was versteht man unter der Bezeichnung Netzinteraktive USV?",
-    "answer": "<strong>Netzinteraktive unterbrechungsfreie Stromversorgungen</strong> (USV-Klasse 2) funktionieren ähnlich wie das Standby-USV Funktionsprinzip. Sie schützen allgemein vor dem Stromausfall sowie vor kurzzeitigen Spannungsspitzen und sind in der Lage, Gegensatz zur Offline-USV liegen die Umschaltzeiten vom Netzbetrieb zum Batteriebetrieb zwischen kurzen 2 bis 4 Millisekunden. Die Umschaltzeit vom Batteriebetrieb zum Netzbetreib ist nahezu verzögerungsfrei."
-
+    "answer": "<strong>Netzinteraktive unterbrechungsfreie Stromversorgungen</strong> (USV-Klasse 2) funktionieren ähnlich wie das Standby-USV Funktionsprinzip. Sie schützen allgemein vor dem Stromausfall sowie vor kurzzeitigen Spannungsspitzen und sind in der Lage, Gegensatz zur Offline-USV liegen die Umschaltzeiten vom Netzbetrieb zum Batteriebetrieb zwischen kurzen 2 bis 4 Millisekunden. Die Umschaltzeit vom Batteriebetrieb zum Netzbetrieb ist nahezu verzögerungsfrei."
   },
   {
     "id": 93,
     "title": 1,
     "question": "Was bedeutet der Begriff SSID (Service Set Identifier)?",
-    "answer": "Die <strong>SSID</strong> (Service Set Identifier) ist laut IEEE (Institute of Electrical and Electronics Engineers) der Norm 802.11 der frei wählbare Name eines drahtlosen Funknetzwerks und wird auch oft als Netzwerkname bezeichnet. Eine SSID darf bis zu 32 Byte ASCII Zeichen lang sein, Groß- und Kleinschreibung ist hierbei zu beachten. Die SSID stellt auch eine Art Broadcastdomäne für Funknetze dar.<br/>Mittlerweile gibt es auch die Multi-SSID, die mehrere Braodcastdomänen verwalten kann."
+    "answer": "Die <strong>SSID</strong> (Service Set Identifier) ist laut IEEE (Institute of Electrical and Electronics Engineers) der Norm 802.11 der frei wählbare Name eines drahtlosen Funknetzwerks und wird auch oft als Netzwerkname bezeichnet. Eine SSID darf bis zu 32 Byte ASCII Zeichen lang sein, Groß- und Kleinschreibung ist hierbei zu beachten. Die SSID stellt auch eine Art Broadcastdomäne für Funknetze dar.<br/>Mittlerweile gibt es auch die Multi-SSID, die mehrere Broadcastdomänen verwalten kann."
   },
   {
     "id": 94,
     "title": 1,
     "question": "Was versteht man unter den Begriffen CMS-, ERP- und CRM-System?",
-    "answer": "<strong>CMS</strong> - Content Management System: Stellt ein Managementsystem zum Verwalten, zur Konfiguration und der redaktionellen Bearbeitung von Inhalten (z. B. für Webseiten) dar.<br/><strong>ERP</strong> - Enterprise Ressource Planning System: Ist ein umfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, zum Beispiel Produktion, Materialwirtschaft und Vertrieb.<br/><strong>CRM</strong> - Customer Relationship Management System: ist ein Werkzeug zur vollständgen Planung, Steuerung und Durchführung aller interaktiven Prozesse mit ded Kunden und unterstützt die Kundenkommunikation"
+    "answer": "<strong>CMS</strong> - Content Management System: Stellt ein Managementsystem zum Verwalten, zur Konfiguration und der redaktionellen Bearbeitung von Inhalten (z. B. für Webseiten) dar.<br/><strong>ERP</strong> - Enterprise Ressource Planning System: Ist ein umfangreiches Werkzeug zur Unterstützung der Ressourcenplanung aller Prozesse eines Unternehmens, zum Beispiel Produktion, Materialwirtschaft und Vertrieb.<br/><strong>CRM</strong> - Customer Relationship Management System: ist ein Werkzeug zur vollständigen Planung, Steuerung und Durchführung aller interaktiven Prozesse mit ded Kunden und unterstützt die Kundenkommunikation"
   },
   {
     "id": 95,
     "title": 1,
-    "question": "Welche Maßnahmen sind geeignet, um die Verarbeitungsgeschwindigkeit einese Personal Computers zu verbessern?",
-    "answer": "Folgende Maßnahmen können zur Verbesserung der Verarbeitungsgeschwindigkeit beitragen:<br/><ol><li>Austausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm</li><li>Einsatz von SSD/M.2 gegenüber Sata-HDDs</li><li>Aufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)</li><li>Austausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarkte</li></ol>"
+    "question": "Welche Maßnahmen sind geeignet, um die Verarbeitungsgeschwindigkeit eines Personal Computers zu verbessern?",
+    "answer": "Folgende Maßnahmen können zur Verbesserung der Verarbeitungsgeschwindigkeit beitragen:<br/><ol><li>Austausch von SATA HDDs mit geringer Umdrehungszahl gegen HDDs mit 10K/rpm</li><li>Einsatz von SSD/M.2 gegenüber Sata-HDDs</li><li>Aufteilung des Betriebssystems und der Anwendungsprogramme auf unterschiedlichen Datenträgern (OS auf M.2, Daten auf SSD)</li><li>Austausch 100 Mbit/s Netzwerkkarte gegen 1 Gbit/s Netzwerkkarte</li></ol>"
   },
   {
     "id": 96,
@@ -577,24 +573,23 @@
     "id": 97,
     "title": 1,
     "question": "Wie berechnet man die Wirkleistung von elektrischen Geräten?",
-    "answer": "Die <strong>elektrische Leistungsberechnung von It-Komponenten</strong> unterliegt den allgemeinen Gesetzen der Elektrotechnik. Die elektrische Wirkleistung P ist das Produkt von Spannnung U und der Stromstärke I.<br/>Die Berechnung erfolgt wie folgt:<br/><strong>P = U . I</strong><br/> Die Berechnung wird in der Maßeinheit Watt angegeben. Die Leistungsangaben von elektrischen Geräten gelten immer für die Dauer mit 60 Minuten bzw. 1 Stunde.<br/>Beispiel: 230V * 16A = 3.680 VA / Watt (3,68 KW/h)<br/>Dieses elektrische Gerät verbraucht demnach 3,68 KW/h"
+    "answer": "Die <strong>elektrische Leistungsberechnung von It-Komponenten</strong> unterliegt den allgemeinen Gesetzen der Elektrotechnik. Die elektrische Wirkleistung P ist das Produkt von Spannung U und der Stromstärke I.<br/>Die Berechnung erfolgt wie folgt:<br/><strong>P = U . I</strong><br/> Die Berechnung wird in der Maßeinheit Watt angegeben. Die Leistungsangaben von elektrischen Geräten gelten immer für die Dauer mit 60 Minuten bzw. 1 Stunde.<br/>Beispiel: 230V * 16A = 3.680 VA / Watt (3,68 KW/h)<br/>Dieses elektrische Gerät verbraucht demnach 3,68 KW/h"
   },{
     "id": 98,
     "title": 1,
     "question": "Nenne die Vor- und Nachteile der Virtualisierung von Servern und Desktops auch unter Berücksichtigung von Cloudangeboten.",
-    "answer": "<strong>Vorteile</strong><br/><ol><li>Stromersparnis</li><li>Skalierbarkeit</li><li>Redundante Systeme (Ausfallsicherheit)</li><li>Schnellere Server-Provisionierung</li><li>so gut wie keine Kapazitätsbeschränkungen</li><li>Nutzung von Kostengünstigen Angeboten</li><li>keine Investitionskosten bei Cloudanbietern (pay-as-you-go)</li><li>Lebensverlängerung alter Software</li></ol><br/><strong>Nachtile</strong><br/><ol><li>nicht jede Lösung ist Kostengünstig für den 24/7-Einsatz</li><li>eventuell höhere Latenzzeiten mit zu vielen virtuellen Maschinen pro Host</li><li>Hardware und Software kann nicht zu 100% selbst administriert werden</li><li>Individuallösungen nicht immer möglich</li><li>angebotene Lösungen nicht in allen Regionen erhältlich</li></ol>"
-
+    "answer": "<strong>Vorteile</strong><br/><ol><li>Stromersparnis</li><li>Skalierbarkeit</li><li>Redundante Systeme (Ausfallsicherheit)</li><li>Schnellere Server-Provisionierung</li><li>so gut wie keine Kapazitätsbeschränkungen</li><li>Nutzung von Kostengünstigen Angeboten</li><li>keine Investitionskosten bei Cloudanbietern (pay-as-you-go)</li><li>Lebensverlängerung alter Software</li></ol><br/><strong>Nachteile</strong><br/><ol><li>nicht jede Lösung ist Kostengünstig für den 24/7-Einsatz</li><li>eventuell höhere Latenzzeiten mit zu vielen virtuellen Maschinen pro Host</li><li>Hardware und Software kann nicht zu 100% selbst administriert werden</li><li>Individuallösungen nicht immer möglich</li><li>angebotene Lösungen nicht in allen Regionen erhältlich</li></ol>"
   },
   {
     "id": 99,
     "title": 1,
     "question": "Was bedeutet der Begriff Serverkonsolidierung?",
-    "answer": "<strong>Serverkonsolidierung</strong> ist eine Form der Konsolidierung von Serverressourcen, bei der man auf die Möglichkeiten der Virtualisierung setzt. Mit Hilfe von virtuellen Maschinen (VM) oder vertuellen Umgebungen (Virtual Environment VE) soll eine Energie- und Raumeinsparung durch Reduktion der physikalischen Serversysteme erreicht werden.<br/>Kurz gefasst: z. B. 10 physische Server werden durch einen performanten Server ersetzt und die 10 Server virtualisiert."
+    "answer": "<strong>Serverkonsolidierung</strong> ist eine Form der Konsolidierung von Serverressourcen, bei der man auf die Möglichkeiten der Virtualisierung setzt. Mit Hilfe von virtuellen Maschinen (VM) oder virtuellen Umgebungen (Virtual Environment VE) soll eine Energie- und Raumeinsparung durch Reduktion der physikalischen Serversysteme erreicht werden.<br/>Kurz gefasst: z. B. 10 physische Server werden durch einen performanten Server ersetzt und die 10 Server virtualisiert."
   },{
     "id": 100,
     "title": 1,
-    "question": "Welche Arten von Anforderungen git es an Software?",
-    "answer": "<strong>Geschäftsanforderungen</strong> sind die Anforderungen, welche sich aus der Geschäftstätigkeit des Kunden und den Marktanforderungen ergeben. Die Geschätsanforderungen werden durch das Management und das Marketing festgelegt.<br/><strong>Benutzeranforderungen</strong> sind die für die Benutzer des Softwaresystem erforderlichen Anforderungen, um die Geschäftsanforderungen zu erfüllen. Die Benutzeranforderungen werden durch Geschäftsanalysten, durch Benutzer oder Vertretern der Benutzer, sowie Produktmanager difiniert.<br/><strong>Funktionale Anforderungen</strong> erfassen das Verhalten, welches eine Software erfüllen muss, um die Benutzeranforderungen zu gewährleisten. Funktionle Anforderungen werden durch Geschäftsanalysten und Produktmanager in Absprache mit der Softwareentwicklung und der Testabteilung definiert.<br/><strong>Projektanforderungen</strong> sind die nötigen Anforderungen, die den Erfolg eines Projekts sichern, um alle Anforderungen des Projekts umsetzen zu können und das Produkt um Zuge des Application Lifecycle Managements (ALM) betreuen zu können."
+    "question": "Welche Arten von Anforderungen gibt es an Software?",
+    "answer": "<strong>Geschäftsanforderungen</strong> sind die Anforderungen, welche sich aus der Geschäftstätigkeit des Kunden und den Marktanforderungen ergeben. Die Geschäftsanforderungen werden durch das Management und das Marketing festgelegt.<br/><strong>Benutzeranforderungen</strong> sind die für die Benutzer des Softwaresystem erforderlichen Anforderungen, um die Geschäftsanforderungen zu erfüllen. Die Benutzeranforderungen werden durch Geschäftsanalysten, durch Benutzer oder Vertretern der Benutzer, sowie Produktmanager definiert.<br/><strong>Funktionale Anforderungen</strong> erfassen das Verhalten, welches eine Software erfüllen muss, um die Benutzeranforderungen zu gewährleisten. Funktionale Anforderungen werden durch Geschäftsanalysten und Produktmanager in Absprache mit der Softwareentwicklung und der Testabteilung definiert.<br/><strong>Projektanforderungen</strong> sind die nötigen Anforderungen, die den Erfolg eines Projekts sichern, um alle Anforderungen des Projekts umsetzen zu können und das Produkt um Zuge des Application Lifecycle Managements (ALM) betreuen zu können."
   },{
     "id": 101,
     "title": 1,
