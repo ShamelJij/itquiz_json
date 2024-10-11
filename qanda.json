@@ -370,7 +370,7 @@
     "id": 62,
     "title": 1,
     "question": "Eine unterbrechungsfreie Stromversorgung (USV) wird nach der USV-Klassifizierung nach IEC 62040-3 in 3 Klassen unterteilt.<br/>Nenne die <strong>3</strong> Klassen und erkläre deren Wirkungsweise stichpunktartig.",
-    "answer": "<strong>Klasse 1: VFI</strong> (Voltage and Frequency Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, Unterspannung, Überspannung als auch vor Frequenzschwankungen sowie vor Oberschwingungen<br/><img src=\"vfi.png\" alt=\"USV-VFI\"><strong>Klasse 2: VI</strong> (Voltage Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, vor Unterspannung und vor Überspannung<br/><img src=\"vi.png\" alt=\"USV-VI\"><strong>Klasse 3: VFD</strong> (Voltage and Frequency Dependent on mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, jedoch mit einer Verzögerung von bis zu 10 Millisekunden (ms)</br><img src=\"vi.png\" alt=\"USV-VI\">"
+    "answer": "<strong>Klasse 1: VFI</strong> (Voltage and Frequency Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, Unterspannung, Überspannung als auch vor Frequenzschwankungen sowie vor Oberschwingungen<br/><img src=\"vfi.png\" alt=\"USV-VFI\"><br/><strong>Klasse 2: VI</strong> (Voltage Independent from mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, vor Unterspannung und vor Überspannung<br/><img src=\"vi.png\" alt=\"USV-VI\"><br/><strong>Klasse 3: VFD</strong> (Voltage and Frequency Dependent on mains supply)<br/>Schützt vor den Folgen eines Stromausfalls, jedoch mit einer Verzögerung von bis zu 10 Millisekunden (ms)<br/><img src=\"vi.png\" alt=\"USV-VI\">"
   },
   {
     "id": 63,
