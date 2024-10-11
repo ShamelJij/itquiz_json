@@ -394,7 +394,7 @@
     "id": 66,
     "title": 1,
     "question": "Was ist eine DMZ?",
-    "answer": "Eine DMZ (Demilitarisierte Zone) trennt durch ein Subnetz mit Hilfe von Firewall-Routern das interne Netzwerk vom externen Netzwerk ab.<br/>Der gesamte Datenverkehr zwischen dem internen und externen Netzwerk unterliegt Regeln, sogenannten Firewall-Regeln. In der Firewall wird geregelt, welche Datenpakete in welcher Richtung das Subnetz passieren dürfen.<br/>Innerhalb der DMZ befinden sich normalerweise Mail-, Datei, Proxy- und Webserver, die geschützt werden müssen gegen interne und externe Angriffe.<br/>Es gibt die einstufige und zweistufige DMZ.<br/><img src=\"einstufige-dmz.png\" alt=\"Einstufige-DMZ\"><br/><img src=\"zweistufige-dmz.png\" alt=\"zweistufige-DMZ\">"
+    "answer": "Eine DMZ (Demilitarisierte Zone) trennt durch ein Subnetz mit Hilfe von Firewall-Routern das interne Netzwerk vom externen Netzwerk ab.<br/>Der gesamte Datenverkehr zwischen dem internen und externen Netzwerk unterliegt Regeln, sogenannten Firewall-Regeln. In der Firewall wird geregelt, welche Datenpakete in welcher Richtung das Subnetz passieren dürfen.<br/>Innerhalb der DMZ befinden sich normalerweise Mail-, Datei, Proxy- und Webserver, die geschützt werden müssen gegen interne und externe Angriffe.<br/>Es gibt die einstufige und zweistufige DMZ.<br/><img src=\"einstufige-dmz.png\" alt=\"Einstufige-DMZ\" width=\"800\" height=\"800\"><br/><br/><img src=\"zweistufige-dmz.png\" alt=\"zweistufige-DMZ\" width=\"800\" height=\"800\">"
   },
   {
     "id": 67,
